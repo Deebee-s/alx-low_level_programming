@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - A programme that prints using put function
+ * main = main block
  * return: 0
  */
 int main(void)
