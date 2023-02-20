@@ -12,9 +12,9 @@ int main(void)
 	char j;
 
 	for (i = 0 ; i < 10 ; i++)
-		putchar(i  + 'q');
+		putchar(i  + '0');
 	for (j = 'a' ; j <= 'f' ; j++)
-		putchar(i);
+		putchar(j);
 	putchar('\n');
 	return (0);
 
